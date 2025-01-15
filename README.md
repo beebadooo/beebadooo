@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mishka
+- 👋 Hi, 
 - 👀 I’m interested in Java, Web dev, Python, AR/VR
 - 📫 Student at Indira Gandhi Delhi Technical University for Women
 
